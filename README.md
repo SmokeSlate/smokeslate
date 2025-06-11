@@ -1,5 +1,5 @@
 # Hi there, I'm Smoke
--# He/Him
+###### He/Him  
 I'm a student building projects with shortcuts, JS, and PHP!  
 
 My main tools are **Apple Shortcuts**, **JavaScript**, **PHP**, **HTML**, and a bit of **Python**.
