@@ -9,7 +9,7 @@ My main tools are **Apple Shortcuts**, **JavaScript**, **PHP**, **HTML**, and a 
 ## 🚀 Featured Projects
 
 - **[Beat the Bank Online](https://btbo.smokeslate.xyz)**  
-  *A web-based game where strategy and luck collide!*
+  *A shortcuts game where you can beat your friends!*
 
 - **[smokeslate.xyz](https://smokeslate.xyz/)**  
   My personal website — check it out to see all my projects, experiments, and creative work!
