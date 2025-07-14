@@ -27,6 +27,7 @@ My main tools are **Apple Shortcuts**, **JavaScript**, **PHP**, **HTML**, and a 
 
 ## 🌱 Currently Learning
 
+- Java
 - Game development
 - New JavaScript frameworks and tools
 - New coding projects
