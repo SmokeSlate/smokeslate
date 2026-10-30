@@ -1,5 +1,5 @@
 # Hi there, I'm Smoke
-###### He/Him  
+###### He/they
 I'm a student building projects and websites.
 
 My main tools are **Shortcuts**, **JavaScript**, **PHP**, **HTML**, and a bit of **Python**. 
